@@ -1,0 +1,34 @@
+Current TODO as of 5/8/27
+
+TODO List for Development:
+
+-Main Page Basic Development
+    --Navigation Bar
+    --Display of Current Best Packs to Profit Off
+    --
+
+-Nuia Pack Page Development
+    --Navigation Bar
+    --Display Packs and Current Profits
+    --
+
+-Harayana Pack Page Development
+    --Navigation Bar
+    --Display Packs and Current Profits
+    --
+
+-Auroria Pack Page Development
+    --Navigation Bar
+    --Display Packs and Current Profits
+    --
+
+-Mats Display/Update Page Development
+    --Navigation Bar
+    --Display Current Prices of mats for packs
+    --Allow User to Update Mat prices
+    --
+
+-Database Development(Sql)
+    --Identify Needed Tables
+    --Populate Tables
+    --

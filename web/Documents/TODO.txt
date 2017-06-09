@@ -1,34 +1,41 @@
 Current TODO as of 5/8/27
 
+Priority
+1 - Very High
+2 - High
+3 - Medium
+4 - Low
+5 - Very Low
+
 TODO List for Development:
 
--Main Page Basic Development
+4 -Main Page Basic Development
     --Navigation Bar
     --Display of Current Best Packs to Profit Off
     --
 
--Nuia Pack Page Development
+3 -Nuia Pack Page Development
     --Navigation Bar
     --Display Packs and Current Profits
     --
 
--Harayana Pack Page Development
+3 -Harayana Pack Page Development
     --Navigation Bar
     --Display Packs and Current Profits
     --
 
--Auroria Pack Page Development
+3 -Auroria Pack Page Development
     --Navigation Bar
     --Display Packs and Current Profits
     --
 
--Mats Display/Update Page Development
+1 -Mats Display/Update Page Development
     --Navigation Bar
     --Display Current Prices of mats for packs
     --Allow User to Update Mat prices
     --
 
--Database Development(Sql)
+1 -Database Development(Sql)
     --Identify Needed Tables
     --Populate Tables
     --
